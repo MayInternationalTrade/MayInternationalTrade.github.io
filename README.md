@@ -1,5 +1,4 @@
-# MayInternationalTrade.github.io
-project website
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -45,4 +44,4 @@ you can play slide, and enjoy the sun set!</p>
         
         
     </body>
-</html>
+
